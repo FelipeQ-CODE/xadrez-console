@@ -15,5 +15,9 @@ namespace Tabuleiro
             pecas = new Peca[linha, colunas]; //Instanciando a matriz de peças
         }
 
+        public Peca peca(int linha, int coluna) //Método para retornar a peça
+        {
+            return pecas[linha, coluna];
+        }
     }
 }
