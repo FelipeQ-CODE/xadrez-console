@@ -1,6 +1,6 @@
 ﻿
 
-namespace Tabuleiro
+namespace tabuleiro
 {
      class Peca
     {   
@@ -12,9 +12,9 @@ namespace Tabuleiro
 
         public Tabuleiro tab { get;protected set; }
 
-        public Peca(Posicao posicao, Tabuleiro tab, Cor cor) //Construtor
+        public Peca(Tabuleiro tab, Cor cor) //Construtor
         {
-            this.posicao = posicao; //this é uma referencia para o objeto que está sendo criado
+            this.posicao = null; //this é uma referencia para o objeto que está sendo criado
             this.tab = tab; 
             this.cor = cor;
             this.qteMovemtnso = 0;
