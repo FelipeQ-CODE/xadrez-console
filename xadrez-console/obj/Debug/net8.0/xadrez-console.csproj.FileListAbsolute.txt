@@ -1,0 +1,14 @@
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.exe
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.deps.json
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.runtimeconfig.json
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.dll
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.pdb
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.AssemblyInfo.cs
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.dll
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\refint\xadrez-console.dll
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.pdb
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.genruntimeconfig.cache
+C:\Users\fqcintra\Desktop\Udemy\JogoXadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\ref\xadrez-console.dll

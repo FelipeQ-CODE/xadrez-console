@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMsgzm/kMdM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fqcintra\\Desktop\\Udemy\\JogoXadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fqcintra\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
