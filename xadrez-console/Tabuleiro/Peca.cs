@@ -19,5 +19,9 @@ namespace tabuleiro
             this.cor = cor;
             this.qteMovemtnso = 0;
         }
+        public void incrementarQteMovimentos() //Método para incrementar a quantidade de movimentos
+        {
+            qteMovemtnso++;
+        }
     }
 }
