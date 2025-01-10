@@ -22,6 +22,7 @@ namespace tabuleiro
 
         public Peca peca (Posicao pos) //Sobrecarga do método peca
         {
+            
             return pecas[pos.linha, pos.coluna]; //Sobrecarga do método peca
         }
         public bool existePeca(Posicao pos) //Método para verificar se existe peça
