@@ -40,4 +40,4 @@ Você pode baixar a versão mais recente do .NET no [site oficial](https://dotne
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/tabuleiro-xadrez.git
+   git clone (https://github.com/FelipeQ-CODE/xadrez-console)
